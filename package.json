@@ -1,16 +1,16 @@
 {
-  "name": "Try-Snyk",
+  "name": "color_profile",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "lodash": "4.17.4",
-    "express": "4.17.1",
-    "body-parser": "1.19.0"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
 }
